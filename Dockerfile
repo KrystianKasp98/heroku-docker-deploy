@@ -1,5 +1,5 @@
 FROM geerlingguy/php-apache:latest
 
 RUN rm /var/www/html/index.html
-COPY ./public /var/www/html/public
+COPY ./public /var/www/
 

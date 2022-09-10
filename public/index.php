@@ -7,6 +7,6 @@
   <title>Document</title>
 </head>
 <body>
-  <h1>Hello it's file for tests</h1>
+  <h1>Hello it's file for tests new version</h1>
 </body>
 </html>

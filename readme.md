@@ -16,4 +16,7 @@ then connect your heroku app with github
 
 select ```Enable Automatic Deploys```
 
+restart heroku build:
+
+```heroku builds:cancel --app {heroku-app-name}```
 

@@ -31,3 +31,9 @@ restart heroku build:
 
 ```heroku builds:cancel --app {heroku-app-name}```
 
+how to use docker-compose:
+
+https://devcenter.heroku.com/articles/local-development-with-docker-compose
+
+push container to heroku
+```heroku container:push web --app {heroku-app-name}```

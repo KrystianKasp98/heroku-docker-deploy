@@ -8,3 +8,11 @@ then pass to Cli:
 
 ```heroku stack:set container --app {app-name}```
 
+If your repo is empty just do git push
+
+then connect your heroku app with github 
+
+```https://dashboard.heroku.com/apps/{heroku-app-name}/deploy/github```
+
+select ```Enable Automatic Deploys```
+

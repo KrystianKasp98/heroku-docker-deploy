@@ -1,5 +1,8 @@
 ## How to create and deploy service
 
+check out how it's works here:
+https://heroku-docker-deploy.herokuapp.com/
+
 open: ```https://dashboard.heroku.com/new-app```
 
 create a new app
